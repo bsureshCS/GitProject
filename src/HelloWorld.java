@@ -3,6 +3,6 @@
  */
 public class HelloWorld {
     public static void main(){
-        System.out.println("test Github project 3");
+        System.out.println("test Github project3");
     }
 }
